@@ -1,0 +1,25 @@
+div{
+    color: red;   
+    font-size: 35px;
+    font-style: normal;
+}
+p{
+    color: orangered;
+    font-size: 20px;
+    font-style: italic;
+    font-family: default;
+}
+ol{
+    color: brown;
+    
+}
+ul{
+    color: brown;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+
+}
+span{
+    text-decoration: none;
+}
+
